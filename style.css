@@ -59,5 +59,23 @@ h1{
     margin-left:5%;
     margin-right:5%;
     box-shadow:10px 10px 40px gray;
-    border-radius: 5px;
+   
+}
+
+#addvance{
+   
+    border-left:7px solid;
+    border-image:linear-gradient(rgb(14, 17, 231),rgb(230, 227, 63));
+    border-image-slice: 1;s
+
+s
+}
+#full-stack-experience{
+    border-left:7px solid;
+    border-image:linear-gradient(red,blue);
+    border-image-slice: 1;
+}
+
+footer p{
+    text-align:center;
 }
