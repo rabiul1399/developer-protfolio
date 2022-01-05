@@ -6,10 +6,10 @@ h1{
     font-size: 50px;
 }
 .orange-color{
-    color:#eeb242;
+    color:#e9900afb;
 }
 
-section{
+.flexible-container{
     display:flex;
     margin-bottom:150px;
 }
